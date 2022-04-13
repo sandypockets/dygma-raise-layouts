@@ -15,8 +15,8 @@ Layouts are grouped by the user that submitted them.
 
 ### sandypockets
 
-#### Layer0 - [link](./sandypockets/layer0.json)
+#### Layer0 - [link](/sandypockets/layer0.json)
 ![Layer0](./sandypockets/layer0.png)
 
-#### Layer1 - [link](./sandypockets/layer1.json)
-![Layer1](./sandypockets/layer1.png)
+#### Layer1 - [link](/sandypockets/layer1.json)
+![Layer1](/sandypockets/layer1.png)
