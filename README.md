@@ -3,11 +3,11 @@
 A collection of layouts for the [Dygma Raise](https://dygma.com/) split mechanical keyboard. 
 
 ## Contributing
-Thanks for your interest in contributing your templates. PRs are welcome!
+Thanks for your interest in contributing your layouts.
 
 1. Create a new folder, and name it after your GitHub username.
-2. Download your template files from Bazecore, and add them to your new folder. 
-3. Include a screenshot from Bazecore of the layout in the folder too.
+2. Download your template files from Bazecor, and add them to your new folder. 
+3. Include a screenshot from Bazecor of the layout in the folder too.
 4. Add your screenshots to the README.md file, and add a link to your folder.
 
 ## Layouts
