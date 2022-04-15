@@ -26,4 +26,4 @@ I've actually replaced the Layer1 above with this layer in my own keyboard, but 
 
 I prefer this layout for coding and writing, so I can get full use of the arrow keys, without sacrificing top row numbers, undo/redo, cut/copy/paste.
 
-![Layer2](/sandypockets/Layer2.png)
+![Layer2](/sandypockets/Layer-2.png)
